@@ -1,5 +1,6 @@
 <template>
   <div>
-    Hello Media Clone!  
+    Hello Media Clone!
+    <router-view/>
   </div>
 </template>
